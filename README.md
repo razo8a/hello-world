@@ -5,4 +5,4 @@ I'm a biomedical engineer intersted in data science, data engineeing, machine le
 
 I think data science is exciting since its like exploring through a jungle of information and making break-through discoveries. 
 
-This is the future job! 
+This is the job of the future! 
